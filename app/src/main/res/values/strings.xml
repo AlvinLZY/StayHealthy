@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Stay Healthy</string>
+    <string name="greeting">Welcome</string>
+    <string name="Exercise">Exercise</string>
+    <string name="Diet">Diet</string>
+    <string name="Sleep">Sleep</string>
+    <string name="orang">orang</string>
 </resources>
